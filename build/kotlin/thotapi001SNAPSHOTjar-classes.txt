@@ -1,0 +1,1 @@
+/home/romulo/dev/RM/thot-api/build/classes/kotlin/main/br/com/rm/thotapi/ThotApiApplication.class:/home/romulo/dev/RM/thot-api/build/classes/kotlin/main/br/com/rm/thotapi/ThotApiApplicationKt.class
